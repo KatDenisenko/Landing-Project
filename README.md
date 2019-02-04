@@ -1,4 +1,3 @@
-# Go_IT_Project
-Наш выпускной проект по html.
+Landing Project by Bootcamp8
 
-https://alyonaudod.github.io/Go_IT_Project/build/index.html?
+https://katdenisenko.github.io/Landing-Project/build/index.html?
